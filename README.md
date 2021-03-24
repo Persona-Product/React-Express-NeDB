@@ -3,7 +3,7 @@
 please type
 
 ```
-npm insatall
+npm ci
 ```
 
 ```
